@@ -17,9 +17,7 @@ final class ComposerLock
      *
      * @param  array<string, string>  $dependencies
      */
-    private function __construct(private array $dependencies)
-    {
-    }
+    private function __construct(private array $dependencies) {}
 
     /**
      * Returns the list of the composer dependencies.

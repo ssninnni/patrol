@@ -1,5 +1,5 @@
 {
-    "name": "nunomaduro/patrol",
+    "name": "patrol/patrol",
     "description": "An elegant command-line tool that keeps your PHP Project's dependencies in check",
     "keywords": ["php", "patrol", "dependencies", "composer"],
     "license": "MIT",

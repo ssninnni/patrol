@@ -20,7 +20,7 @@
 First, install Patrol via the [Composer](https://getcomposer.org/) package manager:
 
 ```bash
-composer require nunomaduro/patrol --dev
+composer require patrol/patrol --dev
 ```
 
 Then, use the `patrol` binary:
